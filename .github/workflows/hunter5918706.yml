@@ -1,0 +1,17 @@
+name: DATAker275226
+on:
+  workflow_dispatch:
+jobs:
+  TESTGER804875:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        APP368795prod: [SUPERsetup536421]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: cluster534544work
+        run: |
+          java -jar encodelike237842.jar
