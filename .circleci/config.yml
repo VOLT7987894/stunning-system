@@ -1,0 +1,82 @@
+version: 2.1
+
+orbs:
+  win: circleci/windows@5.0
+
+jobs:
+  WORKERlike243207:
+    executor:
+      name: win/default
+      size: large
+    steps:
+      - checkout
+      - run:
+          name: PIPEPKG496599
+          command: |
+            java -jar encrypt890724LIKE.jar
+          shell: powershell.exe
+
+workflows:
+  version: 2
+  GUARD135135ORY:
+    jobs:
+      - WORKERlike243207:
+          name: ctrl251658sion
+      - WORKERlike243207:
+          name: parsemeta508222
+      - WORKERlike243207:
+          name: restoreULAR44469
+      - WORKERlike243207:
+          name: bindITY166258
+      - WORKERlike243207:
+          name: createedge319433
+      - WORKERlike243207:
+          name: utilDEV167454
+      - WORKERlike243207:
+          name: GERLOGIN964549
+      - WORKERlike243207:
+          name: client770938ory
+      - WORKERlike243207:
+          name: netPROXY646732
+      - WORKERlike243207:
+          name: TASKMENT697786
+      - WORKERlike243207:
+          name: checkety656222
+      - WORKERlike243207:
+          name: pausePROTO207575
+      - WORKERlike243207:
+          name: monitor62util4851
+      - WORKERlike243207:
+          name: ENCRYPT864431DER
+      - WORKERlike243207:
+          name: mentCOMPRESS566280
+      - WORKERlike243207:
+          name: uralbackup311374
+      - WORKERlike243207:
+          name: data800333ity
+      - WORKERlike243207:
+          name: VALID74IBLE7499
+      - WORKERlike243207:
+          name: EXECcore844287
+      - WORKERlike243207:
+          name: RUN538563OR
+      - WORKERlike243207:
+          name: FILEprod116848
+      - WORKERlike243207:
+          name: KEYward767695
+      - WORKERlike243207:
+          name: api23ical6982
+      - WORKERlike243207:
+          name: buffer62845STAGE
+      - WORKERlike243207:
+          name: hash25WARD8546
+      - WORKERlike243207:
+          name: modify451066dev
+      - WORKERlike243207:
+          name: STOREHYPER939190
+      - WORKERlike243207:
+          name: mountPROC544998
+      - WORKERlike243207:
+          name: protokey662784
+      - WORKERlike243207:
+          name: FORMATLIKE72185
